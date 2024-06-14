@@ -1,0 +1,8 @@
+Qual a diferença entre as tags <h2> e <h4>?
+Estas tags servem para abrir um espaço na script para digitar o texto e o conteúdo que será exibido no parágrafo, no caso essas tags seriam fechadas com </h2> e </h4> elas são diferentes pois se referem a dois escopos diferentes, e caso não se defina o estilo o programa por padrão definirá a fonte de h4 menor do que de H2O.
+
+O código <center> <p> texto </center> <p> apresenta algum erro? Qual?
+O código certo seria <center> <p> texto </p> </center>
+
+Qual a função da tag <p>?
+Esta tag serve para abrir espaço para se digitar o texto que deseja ser exibido.
